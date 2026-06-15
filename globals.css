@@ -1,0 +1,7 @@
+
+body{margin:0;background:#F7F3ED;color:#2F2B28;font-family:Arial,sans-serif}
+nav{display:flex;justify-content:space-between;padding:24px 8%}
+a{text-decoration:none;color:#2F2B28;margin-left:16px}
+main{padding:8%}
+h1{font-size:64px;font-family:Georgia,serif}
+button{padding:12px 20px;border-radius:999px;border:1px solid #6E5846;background:transparent}
